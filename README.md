@@ -56,7 +56,6 @@
 <img src="https://img.shields.io/badge/Data-Matplotlib-F7F3EE?style=for-the-badge&logo=matplotlib&logoColor=11557C&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Data-NumPy-F7F3EE?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Data-Seaborn-F7F3EE?style=for-the-badge&logo=seaborn&logoColor=4C72B0&labelColor=2B2B2B"/>
-<img src="https://img.shields.io/badge/Data-OpenCV-F7F3EE?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Web-Flask-F7F3EE?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Web-Django-F7F3EE?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Web-React-F7F3EE?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2B2B2B"/>
