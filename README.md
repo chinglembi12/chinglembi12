@@ -17,7 +17,8 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="https://github.com/user-attachments/assets/bf3ddc2d-fece-4aae-bdf9-59801ab5b08d" width="200">
+<img width="200" height="200" alt="jpg" src="https://github.com/user-attachments/assets/a2947736-ead6-46cf-84a3-06177204c73c" />
+
 
 </td>
 
@@ -65,7 +66,7 @@
 
 <td width="20%" align="center" valign="middle">
 
-<img width="180" height="180" alt="tenor" src="https://github.com/user-attachments/assets/757736d5-e81d-40c9-9db3-94bfdde4a97b" />
+<img width="180" height="180" alt="tenor" src="https://github.com/user-attachments/assets/8f9f417b-48b7-42a9-b3f1-a169e7e04de0" />
 
 </td>
 
