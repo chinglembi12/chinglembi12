@@ -49,9 +49,6 @@
 <img src="https://img.shields.io/badge/AI-Scikit--learn-F7F3EE?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/ML-XGBoost-F7F3EE?style=for-the-badge&logo=xgboost&logoColor=2E7D32&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Models-CNN-F7F3EE?style=for-the-badge&logoColor=111111&labelColor=2B2B2B"/>
-<img src="https://img.shields.io/badge/Models-Random%20Forest-F7F3EE?style=for-the-badge&logoColor=111111&labelColor=2B2B2B"/>
-<img src="https://img.shields.io/badge/Models-Logistic%20Regression-F7F3EE?style=for-the-badge&logoColor=111111&labelColor=2B2B2B"/>
-<img src="https://img.shields.io/badge/Models-TabNet-F7F3EE?style=for-the-badge&logoColor=111111&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Data-Pandas-F7F3EE?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Data-Matplotlib-F7F3EE?style=for-the-badge&logo=matplotlib&logoColor=11557C&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Data-NumPy-F7F3EE?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=2B2B2B"/>
