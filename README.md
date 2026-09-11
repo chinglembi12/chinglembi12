@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/AI-Keras-F7F3EE?style=for-the-badge&logo=keras&logoColor=D00000&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/AI-PyTorch-F7F3EE?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/AI-Scikit--learn-F7F3EE?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=2B2B2B"/>
-<img src="https://img.shields.io/badge/AI-YOLO-F7F3EE?style=for-the-badge&logoColor=111111&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/ML-XGBoost-F7F3EE?style=for-the-badge&logo=xgboost&logoColor=2E7D32&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Models-CNN-F7F3EE?style=for-the-badge&logoColor=111111&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Models-Random%20Forest-F7F3EE?style=for-the-badge&logoColor=111111&labelColor=2B2B2B"/>
