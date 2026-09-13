@@ -23,7 +23,6 @@
 </td>
 
 <td width="70%">
-
 ### 🌱 About Me
 
 • I enjoy turning data into meaningful insights and building projects that solve real-world problems. <br>
