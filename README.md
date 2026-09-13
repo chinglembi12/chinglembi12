@@ -39,7 +39,8 @@
 <tr>
 
 <td width="80%" valign="top">
-
+<br>
+  <br>
 <img src="https://img.shields.io/badge/Code-Python-F7F3EE?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Code-SQL-F7F3EE?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=2B2B2B"/>
 <img src="https://img.shields.io/badge/Code-JavaScript-F7F3EE?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=2B2B2B"/>
